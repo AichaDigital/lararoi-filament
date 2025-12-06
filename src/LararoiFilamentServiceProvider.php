@@ -2,9 +2,9 @@
 
 namespace AichaDigital\LararoiFilament;
 
+use AichaDigital\LararoiFilament\Commands\LararoiFilamentCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use AichaDigital\LararoiFilament\Commands\LararoiFilamentCommand;
 
 class LararoiFilamentServiceProvider extends PackageServiceProvider
 {
