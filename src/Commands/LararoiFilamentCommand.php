@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace AichaDigital\LararoiFilament\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LararoiFilamentCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'lararoi-filament';
 
     public $description = 'My command';
 
