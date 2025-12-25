@@ -4,7 +4,6 @@ declare(strict_types=1);
 
 namespace AichaDigital\LararoiFilament;
 
-use AichaDigital\LararoiFilament\Commands\LararoiFilamentCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
 
